@@ -124,3 +124,10 @@ cheat30_desc = "Mario Crying Disabled"
 cheat30_code = "44A0-672B"
 cheat30_enable = false 
 
+cheat31_desc = "Unknown"
+cheat31_code = "ED38-4D3A"
+cheat31_enable = false
+
+cheat32_desc = "Starman (Can Still Be Eaten)"
+cheat32_code = "EEFD-B2D7"
+cheat32_enable = false

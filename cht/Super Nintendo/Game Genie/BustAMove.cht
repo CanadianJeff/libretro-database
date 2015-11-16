@@ -1,4 +1,4 @@
-cheats = 6 
+cheats = 8
 
 cheat0_desc = "Shot Guide Is Always On (For A New 1 Player Game)"
 cheat0_code = "338B-0DA4"
@@ -24,3 +24,10 @@ cheat5_desc = "Always Get Max Bonus At The End of Each Round"
 cheat5_code = "3C83-D467"
 cheat5_enable = false 
 
+cheat6_desc = "Shot Guide"
+cheat6_code = "DFDE-9E7C"
+cheat6_enable = false
+
+cheat7_desc = "Shoot To Clear Bubbles"
+cheat7_code = "DAD1-FA8C"
+cheat7_enable = false
